@@ -6,7 +6,12 @@ Założenia projektowe:
   
 
 Funkcje:
-  - aktualne_polozenie (zwraca współrzędne geograficzne);
+  - aktualne_polozenie
     http://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/
-  - jakdojade API: http://jakdojade.pl/pages/api/http_get.html
+    
+  - jakdojade API
+    http://jakdojade.pl/pages/api/http_get.html
     przykładowe zapytanie: m.jakdojade.pl/?fc=51.11386:17.09871&tc=51.13745:16.89888&cid=2000&aac=true
+    
+  - łuskanie informacji
+    http://developer.android.com/reference/java/util/regex/Pattern.html
