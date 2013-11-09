@@ -6,6 +6,8 @@ Założenia projektowe:
   
 
 Funkcje:
+  - start: sprawdza czy to pierwsze uruchomienie programu
+
   - aktualne_polozenie
     http://www.androidhive.info/2012/07/android-gps-location-manager-tutorial/
     
