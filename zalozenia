@@ -6,5 +6,5 @@ Założenia projektowe:
   
 
 Funkcje:
-  - aktualne położenie (zwraca współrzędne geograficzne);
+  - aktualne_polozenie (zwraca współrzędne geograficzne);
   - 
