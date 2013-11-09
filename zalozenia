@@ -1,10 +1,17 @@
 Założenia projektowe:
 
-*Zmienne:
-  - dom (zawiera współrzędne miejsca docelowego);
-  - polozenie (zawiera współrzędne miejsca aktualnego pobytu);
+Bajery:
+  - mapy
+    http://developer.android.com/training/displaying-bitmaps/display-bitmap.html
+    
+  - płynne obrazki
+    http://developer.android.com/training/basics/fragments/fragment-ui.html
+    http://developer.android.com/training/animation/screen-slide.html
+    
+  - zapisywanie do pliku
+    http://developer.android.com/training/basics/data-storage/files.html
   
-
+  
 Funkcje:
   - start: sprawdza czy to pierwsze uruchomienie programu
 
