@@ -3,3 +3,8 @@ Założenia projektowe:
 *Zmienne:
   - dom (zawiera współrzędne miejsca docelowego);
   - polozenie (zawiera współrzędne miejsca aktualnego pobytu);
+  
+
+Funkcje:
+  - aktualne położenie (zwraca współrzędne geografuczne);
+  - 
